@@ -1,4 +1,4 @@
-# FundBridge: A Web3 Crowdfunding DApp 🌐☑️
+# FundBridge: A Crowdfunding Smart Contract 🌐☑️
 
 ## Description 🚀
 FundBridge is a decentralized crowdfunding smart contract. It uses blockchain technology to ensure secure, transparent, and tamper-proof voting. The smart contract is developed using Remix
